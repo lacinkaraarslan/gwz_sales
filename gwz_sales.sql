@@ -1,3 +1,4 @@
+--TODO: add purchase_cost calculation later
 SELECT
   date_date,
   SUM(turnover) AS turnover
